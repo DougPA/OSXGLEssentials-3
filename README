@@ -1,0 +1,11 @@
+This project creates a simple Triangle using OpenGL 3.2 and GLKit.
+
+OSXGLEssentials-2 is the same example constructed using Vertex & Fragment shaders
+
+It is a much simplified version of the Apple Example Code - GLEssentials
+
+It is only applicable to Mac OS X
+
+It was built using XCode 5 DP running on OS X 10.8.4 (it seems to work on OS X Mavericks, 10.9 DP-6 as well)
+
+Questions can be directed to doug@k3tzr.net
